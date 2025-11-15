@@ -1,3 +1,9 @@
 {
-  "mods": []
+  "mods": [
+    {
+      "name": "jei-1.21.10-neoforge-26.1.0.16.jar",
+      "version": "1.0",
+      "url": "https://drive.google.com/uc?export=download&id=1Dsh4ZCnyq4ljv9ZMJUleXRhnsY2cHCSK"
+    }
+  ]
 }
